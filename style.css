@@ -1,0 +1,31 @@
+/* Define estilos básicos para todo o corpo da página */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Um cinza bem claro de fundo */
+}
+
+/* Estiliza o cabeçalho */
+header {
+    background-color: #333333; /* Cinza escuro */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estiliza a seção principal */
+main {
+    padding: 20px;
+}
+
+/* Estiliza o rodapé */
+footer {
+    background-color: #333; /* Cinza escuro */
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed; /* Fixa o rodapé na parte de baixo da tela */
+    bottom: 0;
+    width: 100%;
+}
